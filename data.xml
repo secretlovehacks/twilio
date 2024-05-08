@@ -1,6 +1,0 @@
-<Response>
-<Say voice="woman">Thanks for the calling Relationship Theory. If you have a billing, tech, or any other issue, then please email us at support@relationshiptheory.com or text us at 833-453-2425.
-</Say>
-<Pause length="1"/>
-<Say voice="woman">Thank you. Have a wonderful day.</Say>
-</Response>
